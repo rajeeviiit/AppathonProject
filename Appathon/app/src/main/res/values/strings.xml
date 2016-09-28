@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Appathon</string>
+
+    <string name="pedu">The solution proposed in RFC 827
+        was that the ARPANET be migrated from a single internetwork
+        to a system of interconnected, autonomously controlled
+        internetworks. Within each internetwork, known as an
+        autonomous system (AS), the administrative authority
+        for that AS is free to manage the internetwork as it
+        chooses. In effect, the concept of autonomous systems
+        broadens the scope of internetworking and adds a new layer
+        of hierarchy. Where there was a single internetwork—a network
+        of networks—there is now a network of autonomous systems,
+        each of which is itself an internetwork. And just as a
+        network is identified by an IP address, an AS is identified by
+        an autonomous system number. An AS number is a 16-bit number
+        assigned by the same addressing authority that assigns IP addresses.
+</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_primaryeducation">Primaryeducation</string>
+    <string name="title_activity_highereducation">Highereducation</string>
+
+    <string name="Hedu">●     With all gateways knowing all routes, "the overhead of the routing algorithm becomes excessively
+        large." Whenever a topology change occurs, the likelihood of which increases with the size of the internetwork,
+        all gateways have to exchange routing information and recalculate their tables. Even when the internetwork
+        is in a steady state, the size of the routing tables and routing updates becomes an increasing burden. ●
+        As the number of GGP software implementations increases, and the hardware platforms on which they are
+        implemented become more diverse, "it becomes impossible to regard the Internet as an integrated
+        communications system." Specifically, maintenance and troubleshooting become "nearly impossible." ●
+        As the number of gateways grows, so does the number of gateway administrators. As a result,
+        resistance to software upgrades increases: "[A]ny proposed change must be made in too many
+        different places by too many different people."
+</string>
+    <string name="title_activity_job">Scheme</string>
+
+    <string name="Job1">he Ministry has been administering ‘Support to Training and Employment Programme
+        for Women (STEP) Scheme’ since 1986-87 as a ‘Central Sector Scheme’. The STEP Scheme aims to provide
+        skills that give employability to women and to provide competencies and skill that enable women to become
+        self-employed/entrepreneurs. The Scheme is intended to benefit women who are in the age group of 16 years
+        and above across the country. The grant under the Scheme is given to an institution/ organisation including
+        NGOs directly and not the States/ UTs. The assistance under STEP Scheme will be available in any sector for
+        imparting skills related to employability and entrepreneurship, including but not limited to the Agriculture,
+        Horticulture, Food Processing, Handlooms, Tailoring, Stitching, Embroidery, Zari etc, Handicrafts, Computer
+        IT enable services along with soft skills and skills for the work place such as spoken English, Gems , Jewellery, Travel ,
+        Tourism, Hospitality. </string>
+    <string name="Job2">The Union Ministry of Women and Child Development plans to
+        appoint Mahila Police Volunteers in every village in the country to enhance
+        protection to women and children.
+        Disclosing this to presspersons here on Sunday, Maneka Gandhi, Union Minister
+        for Women and Child Development, said that the process of appointing the
+        volunteers would begin soon. They would be paid a nominal honorarium.</string>
+    <string name="Job3">Every Year, Ministry of Women  Child Development celebrates International
+Women Day on 8th March. The significance of the International Women’s Day lies in
+our re-affirmation of improve the condition of women, especially those at the
+margins of our society and empower them to take rightful place in society.
+Ministry of Women and Child Development, has revised the guidelines for
+Women Awards for conferring on eminent women, organisations and institutions.
+These awards will be called “Nari Shakti Puruskars”. Now, from the year 2016,
+20 Nari Shakti Puruskars shall be conferred every year. The awards will be
+conferred on 8th March on the occasion of International Women’s Day (IWD). The
+Award in each category shall carry a Certificate and a cash amount. The award
+would be given to eminent or outstanding Institutions or organizations and
+individuals.
+With the institution of these awards all the earlier women awards given by the
+Ministry of Women Child Development ceased to exist.</string>
+    <string name="Job4">Recognizing the need to prevent women from exploitation and to support their
+survival and rehabilitation, the scheme of Short Stay Home for women and girls was
+introduced as a social defense mechanism, by the then Department of Social Welfare in 1969.
+The scheme is meant to provide temporary accommodation, maintenance and rehabilitative
+services to women and girls rendered homeless due to family discord, crime, violence, mental
+stress, social ostracism or are being forced into prostitution and are in moral danger. Another
+scheme with the similar objectives namely Swadhar –A Scheme for Women in Difficult
+Circumstances was launched by the Department of Women and Child Development in 2001-
+02. The scheme through the provisions of shelter, food, clothing, counseling, training, clinical
+and legal aid aims to rehabilitate such women in difficult circumstance. Centre for Market
+Research and Social Development, New Delhi conducted an evaluation in 2007 to assess the
+performance of both the schemes. The evaluation report while citing the effectiveness and
+positive impact of measures adopted under the schemes for counseling and rehabilitation
+found that the profile and category of residents, admission procedure, counseling, quality of
+service, vocational training, rehabilitation and follow up procedure are almost similar in both
+the schemes. It, therefore, recommended merger of these two schemes for better functioning
+and outcomes with lesser administrative burdens and procedures. It also recommended that
+the new scheme should focus on establishing one such home in every district.
+The positive findings of the evaluation study has encouraged the Ministry to propose
+this new scheme that would target the women victims of unfortunate circumstances who are
+in need of institutional support for rehabilitation so that they could lead their life with dignity. </string>
+    <string name="Job5">The objective of the scheme is to promote availability of safe and
+conveniently located accommodation for working women, with day care facility for
+their children, wherever possible, in urban, semi urban, or even rural areas where
+employment opportunity for women exist. To achieve this objective, the scheme will assist
+projects for construction of new hostel buildings, expansion of existing hostel buildings and
+hostel buildings in rented premises. The working women’s hostel projects being assisted
+under this scheme shall be made available to all working women without any distinction with
+respect to caste, religion, marital status etc., subject to norms prescribed under the scheme.
+While the projects assisted under this scheme are meant for working women, women under
+training for job may also be accommodated in such hostels subject to the condition that
+taken together, such trainees should not occupy more than 30% of the total capacity the
+hostel and they may be accommodated in the hostels only when adequate numbers of
+working women are not available. Children of working women, up to the age of 18 years for
+girls and up to the age of 5 years for boys may be accommodated in such hostel with their
+mothers.</string>
+    <string name="Pension1">Eligibility: Individuals aged 60 years and above living below
+        the poverty line
+     Amount: ₹200 (US$3.00) per month for beneficiaries aged 60–79 and ₹500 (US$7.40)
+        per month for those 80 years and above.</string>
+    <string name="Pension2">Any Citizen of India, aged between 18 years and 40 years, who has his/her savings bank
+        account opened and also possesses a mobile number, would be eligible to subscribe to this scheme.
+
+Government Funding – Indian Government would provide (i) fixed pension guarantee for the subscribers; (ii) would
+        co-contribute 50% of the subscriber contribution or Rs. 1,000 per annum, whichever is lower, to eligible
+        subscribers; and (iii) would also reimburse the promotional and development activities including
+        incentive to the contribution collection agencies to encourage people to join the APY.</string>
+    <string name="Pension3">A centrally sponsored scheme implemented in the State where
+        the beneficiaries receive pension ® Rs. 300/- per month under the Scheme.
+Target Group:
+Widows within the age of 40 years and above in the BPL category. The total target at present
+        is 1,94,379 (40-59 years) and 3,34,191(60-79 years) totaling to 5,28,570 beneficiaries.</string>
+    <string name="Pension4"> cash incentive of Rs. 4000 to women (19 years and above) for the first two live births</string>
+    <string name="Pension5">tackle malnutrition and health problems in children below 6 years of age and their mothers</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_pension">Pension</string>
+    <string name="title_activity_job1">Tranning and Employment Programme for Women</string>
+    <string name="title_activity_job2">Mahila Police Volunteer</string>
+    <string name="title_activity_job3">NARI SHAKTI PURASKAR</string>
+    <string name="title_activity_job4">GOVERNMENT OF INDIA</string>
+    <string name="title_activity_job5">SWADHAR Greh (A Scheme for Women in Difficult Circumstances)","Working Women Hostel</string>
+    <string name="title_activity_pension1">Indira Gandhi National Old Age Pension Scheme (IGNOAPS)</string>
+    <string name="title_activity_pension2">Launching Atal Pension Yojana (APY) from June 1, 2015</string>
+    <string name="title_activity_pension3">Indira Gandhi National Widow Pension</string>
+    <string name="title_activity_pension4">Indira Gandhi Matritva Sahyog Yojana</string>
+    <string name="title_activity_pension5">Integrated Child Development Services</string>
+    <string name="title_activity_get_started"> </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_category">category</string>
+    <string name="title_activity_main2_activity_login">Main2ActivityLogin</string>
+    <string name="title_activity_data_base_helper">DataBaseHelper</string>
+    <string name="title_activity_login_data_base_adapter">LoginDataBaseAdapter</string>
+    <string name="title_activity_main_activity_l">MainActivityL</string>
+    <string name="title_activity_sign_up">SignUPActivity</string>
+</resources>

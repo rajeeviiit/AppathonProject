@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rajeevpc.appathon" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Primaryeducation"
+            android:label="@string/title_activity_primaryeducation" />
+        <activity
+            android:name=".Highereducation"
+            android:label="@string/title_activity_highereducation" />
+        <activity
+            android:name=".Job"
+            android:label="@string/title_activity_job" >
+        </activity>
+        <activity
+            android:name=".Pension"
+            android:label="@string/title_activity_pension" >
+        </activity>
+        <activity
+            android:name=".Job1"
+            android:label="@string/title_activity_job1" >
+        </activity>
+        <activity
+            android:name=".Job2"
+            android:label="@string/title_activity_job2" >
+        </activity>
+        <activity
+            android:name=".Job3"
+            android:label="@string/title_activity_job3" >
+        </activity>
+        <activity
+            android:name=".Job4"
+            android:label="@string/title_activity_job4" >
+        </activity>
+        <activity
+            android:name=".Job5"
+            android:label="@string/title_activity_job5" >
+        </activity>
+        <activity
+            android:name=".Pension1"
+            android:label="@string/title_activity_pension1" >
+        </activity>
+        <activity
+            android:name=".Pension2"
+            android:label="@string/title_activity_pension2" >
+        </activity>
+        <activity
+            android:name=".Pension3"
+            android:label="@string/title_activity_pension3" >
+        </activity>
+        <activity
+            android:name=".Pension4"
+            android:label="@string/title_activity_pension4" >
+        </activity>
+        <activity
+            android:name=".Pension5"
+            android:label="@string/title_activity_pension5" >
+        </activity>
+        <activity
+            android:name=".GetStarted"
+            android:label="@string/title_activity_get_started" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Category"
+            android:label="@string/title_activity_category" >
+        </activity>
+    </application>
+
+</manifest>

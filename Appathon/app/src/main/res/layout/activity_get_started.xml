@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="#FFFAFA"
+    android:orientation="vertical"
+    tools:context="com.example.rajeevpc.appathon.GetStarted">
+
+   <Button
+       android:layout_width="200dp"
+       android:layout_height="wrap_content"
+       android:id="@+id/btnstart"
+       android:layout_marginTop="150dp"
+       android:layout_centerInParent="true"
+       android:fontFamily="sans-serif"
+       android:textSize="40dp"
+       android:text="Start"
+       android:textStyle="bold"
+       />
+</RelativeLayout>
